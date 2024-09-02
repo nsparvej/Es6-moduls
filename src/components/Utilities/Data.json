@@ -1,0 +1,54 @@
+[
+      {
+        "brand": "Rolex",
+        "model": "Submariner",
+        "price": "$8,000"
+      },
+      {
+        "brand": "Omega",
+        "model": "Speedmaster",
+        "price": "$5,500"
+      },
+      {
+        "brand": "Patek Philippe",
+        "model": "Calatrava",
+        "price": "$25,000"
+      },
+      {
+        "brand": "Tag Heuer",
+        "model": "Carrera",
+        "price": "$3,200"
+      },
+      {
+        "brand": "Breitling",
+        "model": "Navitimer",
+        "price": "$4,000"
+      },
+      {
+        "brand": "Cartier",
+        "model": "Santos",
+        "price": "$6,000"
+      },
+      {
+        "brand": "IWC",
+        "model": "Portofino",
+        "price": "$7,500"
+      },
+      {
+        "brand": "Seiko",
+        "model": "Prospex",
+        "price": "$600"
+      },
+      {
+        "brand": "Hublot",
+        "model": "Big Bang",
+        "price": "$15,000"
+      },
+      {
+        "brand": "Panerai",
+        "model": "Luminor",
+        "price": "$7,000"
+      }
+    ]
+  
+  
